@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Documentation is included in the Documentation folder ###
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
@@ -38,3 +39,7 @@
 2. Implement InitiAllApplications.xaml and CloseAllApplicatoins.xaml workflows, linking them in the Config.xlsx fields
 3. Implement GetTransactionData.xaml and SetTransactionStatus.xaml according to the transaction type being used (Orchestrator queues by default)
 4. Implement Process.xaml workflow and invoke other workflows related to the process being automated
+=======
+# EUA_RT_CalculateClientSecurityHash
+Security hashing exercise by the UiPath Academy Advance course
+>>>>>>> 846a2f2546f269369d2f978a89bcf73c5dc9b7db
